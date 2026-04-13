@@ -5,45 +5,19 @@ const experience: IExperience.Payload = {
   disableTotalPeriod: false,
   list: [
     {
-      title: 'Linux Foundation',
+      title: '링커리어 (Linkareer)',
       positions: [
         {
-          title: 'System Engineer',
-          startedAt: '1996-05',
+          title: '백엔드 개발자 (신입)',
+          startedAt: '2025-02',
           descriptions: [
-            'Steering Kernel patching and updates for various distributions',
-            'Automating deployment and integration processes for Linux servers',
-            'Spearheading initiatives to enhance Linux kernel security',
-            'Collaborating with global developers to coordinate code contributions',
+            'NestJS / TypeScript / GraphQL / Prisma 기반 백엔드 개발',
+            'Elasticsearch 동기화 버그 수정: 게시글 삭제/숨김 시 ES 색인 미동기화 — 3개 레포 크로스 분석으로 원인 파악 및 수정 PR 완료',
+            '멀티레포 정적 분석 표준화: TSConfig/ESLint/Prettier 레포별 파편화 → 통합 설정 적용',
+            'VS Code Extension 개발: IntelliJ ⌘B 기능을 VS Code Extension으로 직접 구현',
+            'AWS 인프라 운용: EB, CodePipeline, Lambda, RDS, S3, CloudWatch',
           ],
-          skillKeywords: ['C', 'Linux', 'Kernel', 'Security', 'Automation'],
-        },
-        {
-          title: 'System Engineer Intern',
-          startedAt: '1996-02',
-          endedAt: '1996-05',
-          descriptions: [
-            'Assisted senior engineers in maintaining and updating kernel patches for Linux distributions',
-            'Supported deployment and integration tasks for Linux server environments',
-            'Conducted research on Linux kernel security practices and presented findings to the team',
-          ],
-          skillKeywords: ['C', 'Linux', 'Kernel', 'Support', 'Research'],
-        },
-      ],
-    },
-    {
-      title: 'Open Source Community',
-      positions: [
-        {
-          title: 'System Advocate and Developer',
-          startedAt: '2010-06',
-          endedAt: '2018-01',
-          descriptions: [
-            'Promoted the use and development of Linux globally.',
-            'Developed automated scripts to streamline system configuration.',
-            'Facilitated live patching systems, reducing downtime.',
-          ],
-          skillKeywords: ['Open Source', 'Linux', 'AWS', 'RDBMS'],
+          skillKeywords: ['NestJS', 'TypeScript', 'GraphQL', 'Prisma', 'AWS', 'Elasticsearch'],
         },
       ],
     },

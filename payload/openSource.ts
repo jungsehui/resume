@@ -4,67 +4,18 @@ const openSource: IOpenSource.Payload = {
   disable: false,
   list: [
     {
-      title: 'Linux Kernal',
+      title: 'firebase-admin-sdk-java',
       descriptions: [
         {
-          content: 'Regular contributor to kernel patches.',
+          content: '한국어 로케일에서 RemoteConfig 테스트 실패 버그 수정',
         },
         {
-          content: 'Active member of kernel security audit team.',
-        },
-      ],
-    },
-    {
-      title: 'GNOME',
-      descriptions: [
-        {
-          content: 'Contributor to UX improvements for system utilities.',
+          content: 'Issue #1196',
+          href: 'https://github.com/firebase/firebase-admin-java/issues/1196',
         },
         {
-          content: 'https://github.com/GNOME',
-          href: 'https://github.com/GNOME',
-        },
-      ],
-    },
-    {
-      title: 'node',
-      descriptions: [
-        { content: 'Node.js JavaScript runtime' },
-        { content: 'Contributor' },
-        {
-          content: 'https://github.com/nodejs/node',
-          href: 'https://github.com/nodejs/node',
-        },
-        {
-          content: 'Github Stars: ',
-          postImage: 'https://img.shields.io/github/stars/nodejs/node.svg?style=popout',
-        },
-      ],
-    },
-    {
-      title: 'NestJS',
-      descriptions: [
-        {
-          content: 'A progressive Node.js framework',
-        },
-        {
-          content:
-            'for building efficient, scalable, and enterprise-grade server-side applications',
-        },
-        {
-          content: 'Contributor',
-        },
-        {
-          content: 'https://github.com/nestjs/nest',
-          href: 'https://github.com/nestjs/nest',
-        },
-        {
-          content: 'Monthly Download: ',
-          postImage: 'https://img.shields.io/npm/dm/@nestjs/core.svg',
-        },
-        {
-          content: 'Github Stars: ',
-          postImage: 'https://img.shields.io/github/stars/nestjs/nest.svg?style=popout',
+          content: 'Pull Request #1199',
+          href: 'https://github.com/firebase/firebase-admin-java/pull/1199',
         },
       ],
     },

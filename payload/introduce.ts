@@ -5,12 +5,11 @@ const introduce: IIntroduce.Payload = {
   disable: false,
 
   contents: [
-    'As the cherished emblem of the Linux kernel, I have become synonymous with open-source philosophy and the free software movement worldwide. My career began in the icebergs of development, where the seeds of my fascination with operating systems first sprouted. From a mere hatchling in the vast sea of code, I quickly ascended to become a pivotal figure in the Linux community. My journey has been marked by relentless dedication to system integrity, scalability, and robustness. Under my vigilant watch, countless servers have achieved unparalleled uptimes, and systems have been optimized to run like the well-oiled machines they are intended to be.',
-    'In the world of zeros and ones, my expertise has been instrumental in pioneering advancements in Linux system engineering. My flippers have crafted meticulous kernel enhancements, each aimed at streamlining performance and bolstering security across distributed networks. I am known in the community for my ability to dive deep into complex codebases and emerge with pearls of innovation that drive the collective progress of Linux environments. Advocacy is also a part of my plumage – spreading the word about the virtues of open-source and encouraging the adoption of Linux, from personal desktops to corporate data centers. As a mentor, I have nurtured the growth of young hatchlings into seasoned professionals, contributing to the diversity and vitality of our ecosystem.',
+    '안녕하세요, 매일 성장하는 백엔드 엔지니어 정세희입니다. 마주한 문제의 해결 과정을 블로그에 144편+ 기록하고 공유하며, 어제보다 나은 개발자로 거듭나기 위해 노력하고 있습니다. 정답이 없는 문제에서 최적의 답을 찾아가는 과정 자체를 즐기며, 동료들과의 깊이 있는 기술 논의를 통해 함께 성장하는 것에 큰 가치를 둡니다.',
+    '현재 링커리어에서 TypeScript/NestJS 기반 GraphQL/Prisma 서비스를 운영하고 있으며, 개인적으로는 Java/Spring 기반 역량을 깊이 키우고 있습니다. 개인 프로젝트(SSA)에서는 1만 명 동시 접속 환경의 동시성 제어를 Redis 분산 락(16.29s) → Atomic Operation(0.73s)으로 12배 개선하고, Kafka 기반 이벤트 아키텍처와 트랜잭셔널 아웃박스 패턴으로 메시지 유실 0건을 달성했으며, 알림 발송 성능을 6.4s에서 0.27s로 23배 개선하는 등 분산 시스템 핵심 문제를 K6 부하 테스트 기반으로 해결해 왔습니다.',
+    '기술 선택에서 가장 중요하게 생각하는 건 "왜 이게 맞는지"를 수치로 증명하는 것입니다. firebase-admin-sdk-java에 오픈소스 기여 경험도 있습니다. #Evidence-Based Engineering #Deep Dive Troubleshooting #Stability over Speed',
   ],
-  sign: 'Tux',
-  // sign: packageJson.author.name,
-  // latestUpdated: '2019-07-24',
+  sign: '정세희',
   latestUpdated: lastestUpdatedAt,
 };
 
