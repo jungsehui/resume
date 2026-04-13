@@ -15,14 +15,14 @@ const etc: IEtc.Payload = {
       startedAt: '2024-08',
     },
     {
-      title: '충남대 디지털 사회문제해결 아이디어톤 최우수상',
-      subTitle: '충남대학교',
-      startedAt: '2024-05',
-    },
-    {
       title: 'JLPT N1 (117점)',
       subTitle: '일본국제교류기금',
       startedAt: '2024-08',
+    },
+    {
+      title: '충남대 디지털 사회문제해결 아이디어톤 최우수상',
+      subTitle: '충남대학교',
+      startedAt: '2024-05',
     },
     {
       title: '블로그 (sehui-ing.tistory.com) — 144편+',
