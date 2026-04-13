@@ -9,7 +9,7 @@ const experience: IExperience.Payload = {
       positions: [
         {
           title: '백엔드 개발자 (신입)',
-          startedAt: '2025-02',
+          startedAt: '2026-01',
           descriptions: [
             'NestJS / TypeScript / GraphQL / Prisma 기반 백엔드 개발',
             'Elasticsearch 동기화 버그 수정: 게시글 삭제/숨김 시 ES 색인 미동기화 — 3개 레포 크로스 분석으로 원인 파악 및 수정 PR 완료',

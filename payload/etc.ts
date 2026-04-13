@@ -22,10 +22,10 @@ const etc: IEtc.Payload = {
     {
       title: 'JLPT N1 (117점)',
       subTitle: '일본국제교류기금',
-      startedAt: '2023-12',
+      startedAt: '2024-08',
     },
     {
-      title: '기술 블로그 (sehui-ing.tistory.com) — 144편+',
+      title: '블로그 (sehui-ing.tistory.com) — 144편+',
       subTitle: '동시성 제어, EDA, OOP/DDD, JVM, 분산 시스템',
       startedAt: '2024-01',
     },
